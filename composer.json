@@ -1,0 +1,12 @@
+{
+  "name": "andij/inventory_manager",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^12.1",
+    "squizlabs/php_codesniffer": "^3.12"
+  }
+}
